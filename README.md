@@ -1,22 +1,22 @@
-![DevsBranch](https://github.com/user-attachments/assets/7e5253bf-3ebf-414c-bba4-09fe8446ab50)
-# DevBranch
 
-Used to be called DevelopersBranch but it is shortened to DevBranch.
+# Eunoia
+
+Old version of this is "DevsBranch"
 
 # Update:
 DevBranch has been moved from EJS to React and will be re-coded. The final product will be coming soon.
 
-## Welcome to DevBranch!
-A community-driven forum for developers and even non-developers to share thoughts about development and coding. A place where you can talk or ask questions related to coding languages. Problems that others may face to be the same as yours! It can be a place for solution or a place to share your amazing development! 
+## Welcome to Eunoia!
+A community-driven website for developers and even non-developers to share thoughts about development and coding. A place where you can talk or ask questions related to coding languages. Problems that others may face to be the same as yours! It can be a place for solution or a place to share your amazing development! 
 
-It is a code forum that you can post and others can comment on what you posted.
 
 ## Links
-Try out my App ---> https://devsbranch-8331c0bde586.herokuapp.com/
+Try out my App ---> (Coming Soon)
 
-Note: Better experience in PC/Laptop (Mobile isn't optimized)
+Note: Better experience in PC/Laptop 
+Mobile Support coming soon.
 
-My Trello Plans: https://trello.com/b/pRI3sF4n/project-2-plan
+My Trello Plans: [https://trello.com/b/pRI3sF4n/project-2-plan](https://trello.com/b/KQGmFIz4/eunoia)
 
 
 
@@ -24,9 +24,8 @@ My Trello Plans: https://trello.com/b/pRI3sF4n/project-2-plan
 
 
 ## Code Languages used
-Embedded JavaScript, CSS, HTML, Mongoose, Express
+React, HTML, & CSS
 
-Database: MongoDB
 
 ## External Sources used
 BootStrap & Google Font
@@ -36,9 +35,8 @@ To improve the UI and improve overall User experience. Adding more features whic
 
 Also a Profile and Search feature as well as search filter feature to search for solutions you specifically want.
 
-## Why is it named DevsBranch?
-DevsBranch is named the way it is because just like GitHub's branches. We have branches of Developers, and we 'push' codes or solutions to other developers to 'pull'. It was named
-DevelopersBranch but I shortened it to DevsBranch.
+## Why is it named Eunoia?
+Eunoia is named the way it is because it means beautiful thinking, good will to all or wanting to help. It's catchy and has a meaning that supports what this application is about!
 
 ## Why did you choose this kind of app for the project?
 Because I see how a lot of developers use websites such as 'Stack Overflow' and I take inspiration. I love to work on something that'll benefit other developers and even non-developers. Sharing their thoughts and sharing problems others can help solving brings a really nice community. Which is why I chose to go with something with the inspiration of a 'Coding Forum'.
